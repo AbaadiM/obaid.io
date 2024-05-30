@@ -1,0 +1,158 @@
+# Query: about
+# ContextLines: 1
+
+46 results - 9 files
+
+gym-html-template\about.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link active">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  109              <div class="col-12 text-center">
+  110:                 <h1 class="display-2 text-uppercase text-white mb-md-4">About Us</h1>
+  111                  <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Home</a>
+  112:                 <a href="" class="btn btn-light py-md-3 px-md-5">About</a>
+  113              </div>
+
+  118  
+  119:     <!-- About Start -->
+  120      <div class="container-fluid p-5">
+
+  123                  <div class="position-relative h-100">
+  124:                     <img class="position-absolute w-100 h-100 rounded" src="img\about.jpeg" style="object-fit: cover;">
+  125                  </div>
+
+  128                  <div class="mb-4">
+  129:                     <h5 class="text-primary text-uppercase">About Us</h5>
+  130                      <h1 class="display-3 text-uppercase mb-0">Welcome to Gymster</h1>
+
+  136                          <li class="nav-item w-50">
+  137:                             <a class="nav-link text-uppercase text-center w-100 active" data-bs-toggle="pill" href="#pills-1">About Us</a>
+  138                          </li>
+
+  154      </div>
+  155:     <!-- About End -->
+  156  
+
+  275                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  276:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  277                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  286                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  287:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  288                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\blog.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  390                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  391:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  392                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  401                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  402:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  403                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\class.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link active">Classes</a>
+
+  605                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  606:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  607                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  616                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  617:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  618                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\contact.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  218                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  219:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  220                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  229                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  230:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  231                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\detail.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  330                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  331:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  332                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  341                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  342:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  343                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\index.html:
+   83                              <a href="index.html" class="nav-item nav-link active">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  147  
+  148:     <!-- About Start -->
+  149      <div class="container-fluid p-5">
+
+  152                  <div class="position-relative h-100">
+  153:                     <img class="position-absolute w-100 h-100 rounded" src="img/about.jpg" style="object-fit: cover;">
+  154                  </div>
+
+  157                  <div class="mb-4">
+  158:                     <h5 class="text-primary text-uppercase">About Us</h5>
+  159                      <h1 class="display-3 text-uppercase mb-0">Welcome to powerhouse</h1>
+
+  165                          <li class="nav-item w-50">
+  166:                             <a class="nav-link text-uppercase text-center w-100 active" data-bs-toggle="pill" href="#pills-1">About Us</a>
+  167                          </li>
+
+  183      </div>
+  184:     <!-- About End -->
+  185  
+
+  925                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  926:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  927                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  936                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  937:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  938                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\READ-ME.txt:
+  10  
+  11:   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+
+gym-html-template\team.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  268                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  269:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  270                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  279                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  280:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  281                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+gym-html-template\testimonial.html:
+   83                              <a href="index.html" class="nav-item nav-link">Home</a>
+   84:                             <a href="about.html" class="nav-item nav-link">About</a>
+   85                              <a href="class.html" class="nav-item nav-link">Classes</a>
+
+  189                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  190:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  191                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
+
+  200                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+  201:                             <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+  202                              <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
